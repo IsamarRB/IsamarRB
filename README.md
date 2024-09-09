@@ -13,12 +13,11 @@ Discipline and accuracy, equally important in technology as in healthcare.<br><b
 🔧 Technical Stack<br>
 Microservices in Java<br>
 CI/CD automation<br>
-Cloud Deployment (AWS, Azure)<br><br>
+Cloud Deployment (AWS, Azure)
 Management of servers and distributed systems.<br>
 
 📈 What motivates me?<br>
 Continuous improvement, learning quickly and providing efficient solutions. I am ready to take on new challenges and contribute to innovative projects.<br><br>
-
 Let's connect and do great things together!<br>
 
 
