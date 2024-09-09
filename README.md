@@ -8,7 +8,9 @@
   <tr>
     <td>
       🚀 **Career Transition: From Healthcare to Technology**<br>
-      Inspired by a desire to reinvent myself and explore new opportunities, I have embarked on the adventure of software development. My focus has been on the backend and DevOps, where I can channel my passion for problem solving, process optimisation, and automation.<br><br>
+      Inspired by a desire to reinvent myself and explore new opportunities, I have embarked
+      on the adventure of software development. My focus has been on the backend and DevOps,
+      where I can channel my passion for problem solving, process optimisation, and automation.<br><br>
       💡 **Transferable Skills**<br>
       - Empathy and leadership: essential for teamwork.<br>
       - Problem-solving under pressure.<br>
@@ -19,7 +21,8 @@
       - Cloud Deployment (AWS, Azure)<br>
       - Management of servers and distributed systems.<br><br>
       📈 **What Motivates Me?**<br>
-      Continuous improvement, learning quickly, and providing efficient solutions. I am ready to take on new challenges and contribute to innovative projects.<br><br>
+      Continuous improvement, learning quickly, and providing efficient solutions. I am
+      ready to take on new challenges and contribute to innovative projects.<br><br>
       Let's connect and do great things together!
     </td>
     <td>
