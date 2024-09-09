@@ -1,122 +1,73 @@
 ![Portada GitHub](https://github.com/user-attachments/assets/1be9c100-2604-483c-a40d-63dae3bc9b9a)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>From Obstetrician to Software Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
+# 💫 From Obstetrician to Software Developer: Embracing Change, Solving Problems 💫
 
-        h1 {
-            text-align: center;
-            color: #5A5A5A;
-        }
+🚀 **Career Transition: From Healthcare to Technology**  
+Inspired by a desire to reinvent myself and explore new opportunities, I have embarked on the adventure of software development. My focus has been on the backend and DevOps, where I can channel my passion for problem-solving, process optimization, and automation.
 
-        h2 {
-            color: #3D3D3D;
-        }
+## 💡 Transferable Skills
+- Empathy and leadership: essential for teamwork.
+- Problem-solving under pressure.
+- Discipline and accuracy, equally important in technology as in healthcare.
 
-        .profile-pic {
-            float: right;
-            margin: 0 20px 20px 0;
-            width: 300px;
-        }
+## 🔧 Technical Stack
+- Microservices in Java  
+- CI/CD automation  
+- Cloud Deployment (AWS, Azure)  
+- Management of servers and distributed systems.
 
-        .github-banner {
-            width: 100%;
-            max-width: 800px;
-            display: block;
-            margin: 20px auto;
-        }
+## 📈 What motivates me?
+Continuous improvement, learning quickly, and providing efficient solutions. I am ready to take on new challenges and contribute to innovative projects.
 
-        .socials img {
-            margin-right: 10px;
-        }
+---
 
-        .tech-stack img {
-            margin: 5px;
-        }
+![Umiko Ahogon](https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f)
 
-        .stats {
-            text-align: center;
-            margin-top: 20px;
-        }
+## 🌐 Socials:
 
-        .top-repo {
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/isamar-romero-bellorin) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/IsaRomBell) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.isa_rom.bell)
 
-    <img src="https://github.com/user-attachments/assets/1be9c100-2604-483c-a40d-63dae3bc9b9a" alt="Portada GitHub" class="github-banner">
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-    <h1>💫 From Obstetrician to Software Developer: Embracing Change, Solving Problems 💫</h1>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IsamarRB&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=IsamarRB&theme=ambient_gradient&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsamarRB&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    <p>🚀 <b>Career Transition: From Healthcare to Technology</b><br>
-    Inspired by a desire to reinvent myself and explore new opportunities, I have embarked on the adventure of software development. My focus has been on the backend and DevOps, where I can channel my passion for problem solving, process optimisation and automation.
-    </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IsamarRB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-    <h2>💡 Transferable Skills</h2>
-    <ul>
-        <li>Empathy and leadership: essential for teamwork.</li>
-        <li>Problem solving under pressure.</li>
-        <li>Discipline and accuracy, equally important in technology as in healthcare.</li>
-    </ul>
+---
 
-    <h2>🔧 Technical Stack</h2>
-    <p>Microservices in Java<br>CI/CD automation<br>Cloud Deployment (AWS, Azure)<br>Management of servers and distributed systems.</p>
+[![](https://visitcount.itsvg.in/api?id=IsamarRB&icon=0&color=10)](https://visitcount.itsvg.in)
 
-    <img src="https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f" alt="Umiko Ahogon" class="profile-pic">
-
-    <h2>📈 What Motivates Me?</h2>
-    <p>Continuous improvement, learning quickly and providing efficient solutions. I am ready to take on new challenges and contribute to innovative projects.</p>
-
-    <h2>🌐 Socials:</h2>
-    <div class="socials">
-        <a href="https://linkedin.com/in/www.linkedin.com/in/isamar-romero-bellorin">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://facebook.com/IsaRomBell">
-            <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-        </a>
-        <a href="https://www.instagram.com/isa_rom.bell">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-        </a>
-    </div>
-
-    <h2>💻 Tech Stack:</h2>
-    <div class="tech-stack">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-        <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-        <!-- Agrega más tecnologías aquí -->
-    </div>
-
-    <h2>📊 GitHub Stats:</h2>
-    <div class="stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=IsamarRB&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsamarRB&theme=ambient_gradient&hide_border=false" alt="GitHub Streak"><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsamarRB&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-    </div>
-
-    <div class="top-repo">
-        <h2>🔝 Top Contributed Repo</h2>
-        <img src="https://github-contributor-stats.vercel.app/api?username=IsamarRB&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo">
-    </div>
-
-    <footer>
-        <a href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=IsamarRB&icon=0&color=10" alt="Visit Count">
-        </a>
-    </footer>
-
-</body>
-</html>
