@@ -1,5 +1,4 @@
-![Header](./your-header-image-name.png) 
-
+![Portada GitHub](https://github.com/user-attachments/assets/1be9c100-2604-483c-a40d-63dae3bc9b9a)
 
 # 💫I'm Isa RomBell!💫
 From Obstetrician to Software Developer: embracing change, solving problems.<br>🚀 Career Transition: From Healthcare to Technology<br>Inspired by a desire to reinvent myself and explore new opportunities, I have embarked on the adventure of software development. My focus has been on the backend and DevOps, where I can channel my passion for problem solving, process optimisation and automation<br><br>💡 Transferable Skills<br>Empathy and leadership: essential for teamwork.<br>Problem solving under pressure.<br>Discipline and accuracy, equally important in technology as in healthcare.<br><br>🔧 Technical Stack<br>Microservices in Java<br>CI/CD automation<br>Cloud Deployment (AWS, Azure)<br><br>Management of servers and distributed systems.<br>📈 What motivates me?<br>Continuous improvement, learning quickly and providing efficient solutions. I am ready to take on new challenges and contribute to innovative projects.<br><br>Let's connect and do great things together!<br><br><br>
