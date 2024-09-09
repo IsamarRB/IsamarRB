@@ -1,10 +1,10 @@
 ![Portada GitHub](https://github.com/user-attachments/assets/1be9c100-2604-483c-a40d-63dae3bc9b9a)
 
 # 💫From Obstetrician to Software Developer: embracing change, solving problems💫
-🚀 Career Transition: From Healthcare to Technology<br>Inspired by a desire to reinvent myself and explore new opportunities,  ![Umiko Ahogon](https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f)
-I have embarked on the adventure of software development. My focus has been on the backend and DevOps, where I can channel 
+🚀 Career Transition: From Healthcare to Technology<br>Inspired by a desire to reinvent myself and explore new opportunities,I have embarked on the adventure of software development. 
+My focus has been on the backend and DevOps, where I can channel 
 my passion for problem solving, process optimisation and automation<br><br>
-💡 Transferable Skills<br>
+💡 Transferable Skills<br>                                                ![Umiko Ahogon](https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f)
 Empathy and leadership: essential for teamwork.<br>
 Problem solving under pressure.<br>
 Discipline and accuracy, equally important in technology as in healthcare.<br><br>
