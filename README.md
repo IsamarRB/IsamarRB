@@ -4,7 +4,6 @@
 
 🚀 Career Transition: From Healthcare to Technology<br>Inspired by a desire to reinvent myself and explore new opportunities, I have embarked on the adventure of software development. My focus has been on the backend and DevOps, where I can channel my passion for problem solving, process optimisation and automation<br><br>
 💡 Transferable Skills<br>
-
 Empathy and leadership: essential for teamwork.<br>
 Problem solving under pressure.<br>
 Discipline and accuracy, equally important in technology as in healthcare.<br><br>
