@@ -3,9 +3,7 @@
 # 💫From Obstetrician to Software Developer: embracing change, solving problems💫
 🚀 Career Transition: From Healthcare to Technology<br>Inspired by a desire to reinvent myself and explore new opportunities,I have embarked on the adventure of software development. 
 My focus has been on the backend and DevOps, where I can channel 
-my passion for problem solving, process optimisation and automation<br>
-![Umiko Ahogon](https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f)
-
+my passion for problem solving, process optimisation and automation<br><br>
 💡 Transferable Skills<br>                                                
 Empathy and leadership: essential for teamwork.<br>
 Problem solving under pressure.<br>
@@ -16,7 +14,8 @@ CI/CD automation<br>
 Cloud Deployment (AWS, Azure)<br><br>
 Management of servers and distributed systems.<br>
 📈 What motivates me?<br>Continuous improvement, learning quickly and providing efficient solutions. I am ready to take on new challenges and contribute to innovative projects.<br><br>
-Let's connect and do great things together!<br><br><br>
+Let's connect and do great things together!<br><br>
+![Umiko Ahogon](https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/isamar-romero-bellorin) 
