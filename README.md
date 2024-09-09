@@ -23,7 +23,7 @@ Continuous improvement, learning quickly, and providing efficient solutions. I a
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f" alt="Umiko Ahogon" width="350" height="350">
-    <img src="https://github.com/user-attachments/assets/c9536348-9ed4-4c43-a2fa-f5d09d556e8b" alt="new-game-ahagon-umiko-programming" width="450" height="350">
+    <img src="https://github.com/user-attachments/assets/c9536348-9ed4-4c43-a2fa-f5d09d556e8b" alt="new-game-ahagon-umiko-programming" width="475" height="350">
 </div>
 
 ## 🌐 Socials:
