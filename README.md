@@ -26,7 +26,7 @@
       Let's connect and do great things together!
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f" alt="Umiko Ahogon" width="300">
+      <img src="https://github.com/user-attachments/assets/356984b1-aa85-4b4d-928a-123b36421a8f" alt="Umiko Ahogon" width="500">
     </td>
   </tr>
 </table>
