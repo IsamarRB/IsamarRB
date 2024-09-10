@@ -13,7 +13,7 @@ Inspired by a desire to reinvent myself and explore new opportunities, I have em
 ## 🔧 Technical Stack
 - Microservices in Java  
 - CI/CD automation  
-- Cloud Deployment (AWS, Azure)  
+- Cloud Deployment  
 - Management of servers and distributed systems.
 
 ## 📈 What motivates me?
